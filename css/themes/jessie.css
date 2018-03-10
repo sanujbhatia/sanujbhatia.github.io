@@ -1,0 +1,247 @@
+/* ==========================================================
+*
+*
+! Vertica - LESS Theme Builder
+*
+*
+========================================================== */
+/* ==========================================================
+! EDIT THE COLORS BELOW
+========================================================== */
+/* ==========================================================
+! GENERAL 
+========================================================== */
+body {
+  background-image: url('../../img/bg.jpg');
+  background-color: #759c8a;
+}
+.color1 {
+  color: #fe4365;
+}
+h1,
+h2 {
+  color: #fe4365;
+}
+h3 {
+  color: #2f5db5;
+}
+.btn-default {
+  background: #303F9F;
+  border: #759c8a;
+}
+.btn-default:hover {
+  background: #101d7d !important;
+}
+.btn-facebook {
+  background: #3B5998;
+  color: #ffffff;
+}
+.btn-facebook:hover {
+  background: #2A4887 !important;
+  color: #ffffff !important;
+}
+.btn-twitter{
+  background: #00aced;
+  color: #ffffff;
+}
+.btn-twitter:hover {
+  background: #009acb !important;
+  color: #ffffff !important;
+}
+
+.btn-linkedin{
+  background: #0077B5;
+  color: #ffffff;
+}
+
+.btn-linkedin:hover {
+  background: #005593 !important;
+  color: #ffffff !important;
+}
+
+.btn-googlepl{
+  background: #d34836;
+  color: #ffffff;
+}
+
+.btn-googlepl:hover {
+  background: #b12614 !important;
+  color: #ffffff !important;
+}
+
+.btn-github{
+  background: #4078c0;
+  color: #ffffff;
+}
+
+.btn-github:hover {
+  background: #2056a0 !important;
+  color: #ffffff !important;
+}
+
+.btn-primary {
+  background: #fe4365;
+  border: #fe4365;
+}
+.btn-primary:hover {
+  background: #ed3254 !important;
+}
+.btn-secondary {
+  background: #e33b5a;
+  border: #e33b5a;
+}
+.btn-secondary:hover {
+  background: #d22a49 !important;
+}
+/* ==========================================================
+! Tipography
+========================================================== */
+p {
+  color: #333333;
+}
+.intro-title1 {
+  color: #222222;
+  border-bottom: 1px solid #fe4365;
+}
+.intro-title2 {
+  color: #555555;
+}
+.section-title {
+  color: #fe4365;
+}
+.section-item-title-1 {
+  color: #303F9F;
+}
+/* ==========================================================
+! PAGE LOADER 
+========================================================== */
+#page-loader {
+  background: #648b79;
+  color: #fe4365;
+}
+/* ==========================================================
+! HEADER COLORS
+========================================================== */
+.top-color {
+  background: #fe4365;
+}
+.top-color1 {
+  background: #fe4365;
+}
+.top-color2 {
+  background: #303F9F;
+}
+.top-color3 {
+  background: #e33b5a;
+}
+/* ==========================================================
+! SIDE MENU
+========================================================== */
+.side-menu-button {
+  background: #333;
+  opacity: 0.9;
+}
+.side-menu {
+  background: #111;
+}
+.side-menu-nav li a:hover {
+  color: #fff;
+}
+.side-menu-nav li.active a {
+  color: #fff;
+}
+#side-menu-close {
+  color: #fff;
+}
+/* ==========================================================
+! GENERAL CONTENT
+========================================================== */
+/* ==========================================================
+! PROFILE INTRO
+========================================================== */
+.profile-pic {
+  border: 5px solid #fe4365;
+}
+/* ==========================================================
+! TIMELINE PROGRESS
+========================================================== */
+.timeline-wrap {
+  background: #fe4365;
+}
+.line-content {
+  color: #333333;
+}
+/* ==========================================================
+! SECTIONS: EDUCATION AND WORK EXPERIENCE
+========================================================== */
+.graduation-time,
+.job {
+  color: #777777;
+}
+/* ==========================================================
+! SECTION: SKILLS
+========================================================== */
+.progress > .progress-completed {
+  color: #888;
+}
+.progress-bar {
+  background: #283593;
+}
+.progress-bar-2 {
+  background: #3F51B5;
+}
+.progress-bar-3 {
+  background: #e33b5a;
+}
+/* ==========================================================
+! SECTION: PORTFOLIO
+========================================================== */
+.portfolio .line-content {
+  height: 255px;
+}
+.portfolio-item .hover-bg {
+  background: #dc2143;
+}
+.bx-prev,
+.bx-next {
+  background: #759c8a;
+}
+.bx-prev:hover,
+.bx-next:hover {
+  color: #fff;
+  background: #426957;
+}
+/* ==========================================================
+! SECTION: CONTACT
+========================================================== */
+input.form-control,
+textarea.form-control {
+  background: #ff6587;
+  border: 1px solid #ff5476;
+}
+.form-send {
+  background: #759c8a;
+  color: #fff;
+}
+.contact-subtitle-1 {
+  color: #000000;
+}
+.modal-content .modal-title {
+  color: #759c8a;
+}
+/* ==========================================================
+! SECTION: THANK YOU
+========================================================== */
+.thank-you {
+  color: #888888;
+}
+/* ==========================================================
+! FOOTER
+========================================================== */
+#footer {
+  background: #e33b5a;
+  color: #fff;
+}
+#footer p {
+  color: #fff;
+}
